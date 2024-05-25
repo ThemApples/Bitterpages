@@ -8,10 +8,10 @@
     <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -86,5 +86,7 @@
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

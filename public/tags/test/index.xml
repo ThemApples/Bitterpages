@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on My New Hugo Site</title>
+    <title>Test on Soho</title>
     <link>http://localhost:1313/tags/test/</link>
-    <description>Recent content in Test on My New Hugo Site</description>
+    <description>Recent content in Test on Soho</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 09 Jan 1012 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/test-9/</link>
       <pubDate>Thu, 09 Jan 1012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/test-9/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut accumsan sem, imperdiet malesuada erat. Nam condimentum eu turpis a suscipit. Nulla leo arcu, feugiat ac orci eget, imperdiet posuere dui. In laoreet rutrum nisi vitae pretium. Aliquam id fermentum diam, et hendrerit mi. Praesent eget tristique augue. Donec a malesuada nulla, sit amet bibendum libero. Cras id eleifend enim.&#xA;You think you&amp;rsquo;ve got problems? What are you supposed to do if you are a manically depressed robot?</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut accumsan sem, imperdiet malesuada erat.</description>
     </item>
     <item>
       <title>Test 8</title>
@@ -69,7 +69,7 @@
       <link>http://localhost:1313/posts/test-1/</link>
       <pubDate>Wed, 01 Jan 1012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/test-1/</guid>
-      <description>Test 1 I am referencing a footnote1&#xA;1package main 2 3import &amp;#34;fmt&amp;#34; 4 5func main() { 6 fmt.Println(&amp;#34;{linenos=inline}&amp;#34;) 7} 1 2 3 4 5 6 7 package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;{linenos=table}&amp;#34;) } Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dictum tortor. Morbi laoreet enim id sem euismod lobortis. Donec quam libero, bibendum non cursus vitae, dictum vel eros. I am the footnote&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+      <description>Test 1 I am referencing a footnote1&#xA;1package main 2 3import &amp;#34;fmt&amp;#34; 4 5func main() { 6 fmt.</description>
     </item>
   </channel>
 </rss>
