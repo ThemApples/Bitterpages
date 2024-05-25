@@ -1,0 +1,6 @@
+[module]
+  [module.hugoVersion]
+    url = "https://Bitterpages.github.io"
+    extended = true
+    min = "0.55.0"
+    theme = "m10c"
