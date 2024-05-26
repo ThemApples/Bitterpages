@@ -1,110 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soho</title>
+    <title>Jimmy Y</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Soho</description>
+    <description>Recent content on Jimmy Y</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a New Theme</title>
-      <link>http://localhost:1313/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo.</description>
+      <title>Finally Found an Alternative</title>
+      <link>http://localhost:1313/posts/2505post/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2505post/</guid>
+      <description>I Nearly gave up on the idea of hosting my own site.</description>
     </item>
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://localhost:1313/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine.</description>
+      <title>will it host?</title>
+      <link>http://localhost:1313/posts/1805post/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1805post/</guid>
+      <description>Today i was able to find a way to generate a website through react but with a different script.</description>
     </item>
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>http://localhost:1313/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.</description>
+      <title>Footer of Website</title>
+      <link>http://localhost:1313/posts/1705post/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1705post/</guid>
+      <description>I was able to get a better understanding of React js in general and able to make some progress with the webpage development through the use of the footer.</description>
     </item>
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>http://localhost:1313/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
+      <title>Navbar Working</title>
+      <link>http://localhost:1313/posts/1205post/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1205post/</guid>
+      <description>I was able to get a better understanding of React js in general and able to make some progress with the webpage development through the use of the navbar.</description>
     </item>
     <item>
-      <title>Test 9</title>
-      <link>http://localhost:1313/posts/test-9/</link>
-      <pubDate>Thu, 09 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-9/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut accumsan sem, imperdiet malesuada erat.</description>
+      <title>Finally Links working</title>
+      <link>http://localhost:1313/posts/1105post/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1105post/</guid>
+      <description>I was able to get an understanding of React js in general and able to make some progress with the webpage development.</description>
     </item>
     <item>
-      <title>Test 8</title>
-      <link>http://localhost:1313/posts/test-8/</link>
-      <pubDate>Wed, 08 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-8/</guid>
-      <description>Test 8</description>
+      <title>Looking in the wrong place</title>
+      <link>http://localhost:1313/posts/0605post/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/0605post/</guid>
+      <description>I was write about the assumption from yesterday. By following out of date information and using an out of date react js library i wont be able to draw out the whole potential of React js.</description>
     </item>
     <item>
-      <title>Test 7</title>
-      <link>http://localhost:1313/posts/test-7/</link>
-      <pubDate>Tue, 07 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-7/</guid>
-      <description>Test 7</description>
+      <title>Configuring Node Js</title>
+      <link>http://localhost:1313/posts/0505post/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/0505post/</guid>
+      <description>Today, I have made too many changes to react. I was hoping to make a website through some youtube videos.</description>
     </item>
     <item>
-      <title>Test 6</title>
-      <link>http://localhost:1313/posts/test-6/</link>
-      <pubDate>Mon, 06 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-6/</guid>
-      <description>Test 6</description>
-    </item>
-    <item>
-      <title>Test 5</title>
-      <link>http://localhost:1313/posts/test-5/</link>
-      <pubDate>Sun, 05 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-5/</guid>
-      <description>Test 5</description>
-    </item>
-    <item>
-      <title>Test 4</title>
-      <link>http://localhost:1313/posts/test-4/</link>
-      <pubDate>Sat, 04 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-4/</guid>
-      <description>Test 4</description>
-    </item>
-    <item>
-      <title>Test 3</title>
-      <link>http://localhost:1313/posts/test-3/</link>
-      <pubDate>Fri, 03 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-3/</guid>
-      <description>Test 3</description>
-    </item>
-    <item>
-      <title>Test 2</title>
-      <link>http://localhost:1313/posts/test-2/</link>
-      <pubDate>Thu, 02 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-2/</guid>
-      <description>Test 2</description>
-    </item>
-    <item>
-      <title>Test 1</title>
-      <link>http://localhost:1313/posts/test-1/</link>
-      <pubDate>Wed, 01 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-1/</guid>
-      <description>Test 1 I am referencing a footnote1&#xA;1package main 2 3import &amp;#34;fmt&amp;#34; 4 5func main() { 6 fmt.</description>
+      <title>Creating A Base</title>
+      <link>http://localhost:1313/posts/2104post/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2104post/</guid>
+      <description>This is the beginning of my journey developing a website to documenting all upskilling.</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia lorem quis sodales auctor.</description>
+      <description>Nothing Yet</description>
     </item>
   </channel>
 </rss>
