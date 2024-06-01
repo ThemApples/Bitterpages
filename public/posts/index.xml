@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jimmy Y</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:45437/posts/</link>
     <description>Recent content in Posts on Jimmy Y</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45437/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finally Found an Alternative</title>
-      <link>http://localhost:1313/posts/2505post/</link>
+      <link>http://localhost:45437/posts/2505post/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2505post/</guid>
+      <guid>http://localhost:45437/posts/2505post/</guid>
       <description>I Nearly gave up on the idea of hosting my own site.</description>
     </item>
     <item>
       <title>will it host?</title>
-      <link>http://localhost:1313/posts/1805post/</link>
+      <link>http://localhost:45437/posts/1805post/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/1805post/</guid>
+      <guid>http://localhost:45437/posts/1805post/</guid>
       <description>Today i was able to find a way to generate a website through react but with a different script.</description>
     </item>
     <item>
       <title>Footer of Website</title>
-      <link>http://localhost:1313/posts/1705post/</link>
+      <link>http://localhost:45437/posts/1705post/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/1705post/</guid>
+      <guid>http://localhost:45437/posts/1705post/</guid>
       <description>I was able to get a better understanding of React js in general and able to make some progress with the webpage development through the use of the footer.</description>
     </item>
     <item>
       <title>Navbar Working</title>
-      <link>http://localhost:1313/posts/1205post/</link>
+      <link>http://localhost:45437/posts/1205post/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/1205post/</guid>
+      <guid>http://localhost:45437/posts/1205post/</guid>
       <description>I was able to get a better understanding of React js in general and able to make some progress with the webpage development through the use of the navbar.</description>
     </item>
     <item>
       <title>Finally Links working</title>
-      <link>http://localhost:1313/posts/1105post/</link>
+      <link>http://localhost:45437/posts/1105post/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/1105post/</guid>
+      <guid>http://localhost:45437/posts/1105post/</guid>
       <description>I was able to get an understanding of React js in general and able to make some progress with the webpage development.</description>
     </item>
     <item>
       <title>Looking in the wrong place</title>
-      <link>http://localhost:1313/posts/0605post/</link>
+      <link>http://localhost:45437/posts/0605post/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/0605post/</guid>
+      <guid>http://localhost:45437/posts/0605post/</guid>
       <description>I was write about the assumption from yesterday. By following out of date information and using an out of date react js library i wont be able to draw out the whole potential of React js.</description>
     </item>
     <item>
       <title>Configuring Node Js</title>
-      <link>http://localhost:1313/posts/0505post/</link>
+      <link>http://localhost:45437/posts/0505post/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/0505post/</guid>
+      <guid>http://localhost:45437/posts/0505post/</guid>
       <description>Today, I have made too many changes to react. I was hoping to make a website through some youtube videos.</description>
     </item>
     <item>
       <title>Creating A Base</title>
-      <link>http://localhost:1313/posts/2104post/</link>
+      <link>http://localhost:45437/posts/2104post/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2104post/</guid>
+      <guid>http://localhost:45437/posts/2104post/</guid>
       <description>This is the beginning of my journey developing a website to documenting all upskilling.</description>
     </item>
   </channel>
