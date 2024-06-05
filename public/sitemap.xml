@@ -2,46 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:45437/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/posts/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/posts/2505post/</loc>
+    <loc>http://localhost:1313/posts/2505post/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/tags/test/</loc>
+    <loc>http://localhost:1313/tags/test/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/posts/1805post/</loc>
+    <loc>http://localhost:1313/posts/1805post/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/posts/1705post/</loc>
+    <loc>http://localhost:1313/posts/1705post/</loc>
     <lastmod>2024-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/posts/1205post/</loc>
+    <loc>http://localhost:1313/posts/1205post/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/posts/1105post/</loc>
+    <loc>http://localhost:1313/posts/1105post/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/posts/0605post/</loc>
+    <loc>http://localhost:1313/posts/0605post/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/posts/0505post/</loc>
+    <loc>http://localhost:1313/posts/0505post/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/posts/2104post/</loc>
+    <loc>http://localhost:1313/posts/2104post/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45437/about/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
   </url><url>
-    <loc>http://localhost:45437/categories/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:45437/series/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/development/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/development/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/golang/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/golang/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>
