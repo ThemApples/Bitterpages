@@ -1,0 +1,33 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Jimmys Blog'
+theme = "paper"
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  github = 'ThemApples'                 # github.com/YOUR_GITHUB_ID
+
+  # home page profile
+  avatar = 'https://2.gravatar.com/avatar/698dfb3f7603d18da36c859df96e935158940511e477cfcad4dad847ddf27a50?size=256'                # gravatar email or image url
+  name = 'Jimmy Young'
+  bio = 'Service Desk Analyst'
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  favicon = "favicon.ico"                   # customize the default favicon
+  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
+
+  # giscus
+[params.giscus]
+  mapping = 'pathname'
+  theme = 'light'
+  lang = 'zh-CN'
+  
+  
+

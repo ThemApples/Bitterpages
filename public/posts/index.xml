@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jimmys Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Jimmys Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2024 20:47:21 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Break Through</title>
+      <link>http://localhost:1313/posts/my15-06/</link>
+      <pubDate>Sat, 15 Jun 2024 20:47:21 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my15-06/</guid>
+      <description>Finally, Broke through and understood what ive been doing wrong this whole time. Github responds very differently especially when using hugo. - Lesson to away from here is READ DOCUMENTATION PROPERLY.&#xA;I finally Decided on a theme (Paper) - https://themes.gohugo.io/themes/hugo-paper/.&#xA;It was quite easy understanding that the hugo.toml file controls the majority of features in the website. Its much easier than an HTML to understand - However having that background knowledge did give me an advantage.</description>
+    </item>
+    <item>
+      <title>Temporary setback</title>
+      <link>http://localhost:1313/posts/my08-06/</link>
+      <pubDate>Sat, 08 Jun 2024 20:46:25 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my08-06/</guid>
+      <description>The website is now ready to be deployed There is still alot that needs to be changed however will have to do I have been able to get most of the primary functionality working. I have gotten a hugo website in the test environment however its acting the same way. im still researching on if i should manually create a hugo website or if its even possible&#xA;The next update may take some time because im trying to start learning SQL are apart of my career path.</description>
+    </item>
+    <item>
+      <title>Unexpected errors</title>
+      <link>http://localhost:1313/posts/my05-06/</link>
+      <pubDate>Wed, 05 Jun 2024 20:44:41 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my05-06/</guid>
+      <description>After pushing into github again with a new post that was created by the hugo the changes were not made. I tested this by awaiting for 10 minutes and clearing cache. The issue changes were still not made. I did some research. How hugo shows the changes is through the content in the public folder. I tried to make those changes manually however the page would give me a error along of the lines cannot see the content</description>
+    </item>
+    <item>
+      <title>Creating a new ProfilePic</title>
+      <link>http://localhost:1313/posts/my01-06/</link>
+      <pubDate>Sat, 01 Jun 2024 20:42:48 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my01-06/</guid>
+      <description>Im wanting to create a new profile picture from scratch. Im hoping to create a profile picture that has minimalistic apperance. So on linux there are two software that i can use Gimp and Inkscape. Gimp was already installed on the system. So i installed the software with the below command.&#xA;flatpak install flathub org.inkscape.Inkscape&#xA;I was playing around with the software to see if i could manage to create the picture myself.</description>
+    </item>
+    <item>
+      <title>ProfilePic</title>
+      <link>http://localhost:1313/posts/my30-05/</link>
+      <pubDate>Thu, 30 May 2024 20:40:29 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my30-05/</guid>
+      <description>I was having trouble with getting a profile picture working because im still new to the hugo Software. I attempted to implement my previous knowledge of web development and leave the the png file in my main repository. However, that did not resolve the issue because the image couldnt be seen by the system. I did do some quick troubleshooting by using a solid color and naming profile.png. Then going to developers tools, under any settings, right clicking on the profile picture and &amp;ldquo;inspecting element&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Finally Found an Alternative</title>
+      <link>http://localhost:1313/posts/my25-05/</link>
+      <pubDate>Sat, 25 May 2024 20:38:54 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my25-05/</guid>
+      <description>I Nearly gave up on the idea of hosting my own site. I came across a youtube link that uses a different language to create the webpage. The language is Hugo&#xA;Accomplished: I was able to find a host create a website. Choose a theme - ( https://themes.gohugo.io/themes/soho/ ) or (https://themes.gohugo.io/themes/hugo-theme-m10c/) host the website through github pages.&#xA;#Installing hugo sudo zypper install hugo&#xA;#Creating the website hugo new site bitterpages</description>
+    </item>
+    <item>
+      <title>Creating A Base</title>
+      <link>http://localhost:1313/posts/my21-05/</link>
+      <pubDate>Tue, 21 May 2024 20:37:20 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my21-05/</guid>
+      <description>This is the beginning of my journey developing a website to documenting all upskilling. Accomplished:&#xA;Reactjs create through node js (Code command - &amp;ldquo;npx create-react-app my-app&amp;rdquo;) no issue running the react js website (Ran the website using &amp;ldquo;npm start&amp;rdquo; From my_apps directory) npx create-react-app my-app&#xA;Issue: Trying to implement the use of muliple pages for react to view mulitple projects. An error message saying &amp;ldquo;react js export &amp;lsquo;AbortedDeferredError&amp;rsquo;&amp;rdquo; Thoughts: I thought i didnt have the correct version of Node js or React or plugin installed.</description>
+    </item>
+    <item>
+      <title>will it host?</title>
+      <link>http://localhost:1313/posts/my18-05/</link>
+      <pubDate>Sat, 18 May 2024 20:36:32 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my18-05/</guid>
+      <description>Today i was able to find a way to generate a website through react but with a different script. Accomplished: I was able to generate a website with the same feature with the gh pages script. Issue:&#xA;still not hosting through github. Thoughts: With so many version of react and my lack of understanding of the gh pages feature on github will it work.</description>
+    </item>
+    <item>
+      <title>Footer of Website</title>
+      <link>http://localhost:1313/posts/my17-05/</link>
+      <pubDate>Fri, 17 May 2024 20:35:21 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my17-05/</guid>
+      <description>I was able to get a better understanding of React js in general and able to make some progress with the webpage development through the use of the footer. Accomplished: The footer was simple enough to be created however there was spacing issues on the webpage because i was not used to the default style sheet. It would be very difficult to locate the specific style and which px or element was creating the space.</description>
+    </item>
+    <item>
+      <title>Navbar Working</title>
+      <link>http://localhost:1313/posts/my12-05/</link>
+      <pubDate>Sun, 12 May 2024 20:34:07 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my12-05/</guid>
+      <description>I was able to get a better understanding of React js in general and able to make some progress with the webpage development through the use of the navbar. Accomplished: I included the &amp;ldquo;export default Layout;&amp;rdquo; in my Layout because i tried at looking at everything else but nothing worked. (Adding that small amount of code worked.) React didnt know what it was trying to render therefore showing up a white page.</description>
+    </item>
+    <item>
+      <title>Finally Links working</title>
+      <link>http://localhost:1313/posts/my11-05/</link>
+      <pubDate>Sat, 11 May 2024 20:33:13 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my11-05/</guid>
+      <description>I was able to get an understanding of React js in general and able to make some progress with the webpage development. Accomplished: I need a general understanding of how the react Router worked so i went online to do some research - https://www.youtube.com/watch?v=qi32YwjoN2U The youtube video help me get a better understanding of the router. I implemented those lessons into my method and it started working. Now i had made a home page and so it.</description>
+    </item>
+    <item>
+      <title>Looking in the wrong place</title>
+      <link>http://localhost:1313/posts/my06-05/</link>
+      <pubDate>Mon, 06 May 2024 20:31:43 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my06-05/</guid>
+      <description>I was write about the assumption from yesterday. By following out of date information and using an out of date react js library i wont be able to draw out the whole potential of React js.&#xA;Accomplished: I follow the instructions in the website above however could not get the pages to work the way the website was expecting me to get it. I was able to create the physical pages and get the link by manually putting the URL through the search bar of the browser but could not get the navigation bar or element to show up as a pressable link.</description>
+    </item>
+    <item>
+      <title>Configuring Node Js</title>
+      <link>http://localhost:1313/posts/my05-05/</link>
+      <pubDate>Sun, 05 May 2024 20:27:34 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my05-05/</guid>
+      <description>Today, I have made too many changes to react. I was hoping to make a website through some youtube videos. However, the functions being used maybe out of date as these videos are 4 years old now. Accomplished: When running npm start, the terminal suggested to use &amp;ldquo;npm audit fix &amp;ndash;force&amp;rdquo; to resolve any conflicts on any pages. I attempted to run this several times. The terminal said there were a few functions that having conflicts.</description>
+    </item>
+  </channel>
+</rss>
