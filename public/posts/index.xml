@@ -6,8 +6,36 @@
     <description>Recent content in Posts on Jimmys Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2024 20:47:21 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 14:52:52 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taking the first steps</title>
+      <link>http://localhost:1313/posts/my30-06/</link>
+      <pubDate>Sun, 30 Jun 2024 14:52:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my30-06/</guid>
+      <description>Im not too familiar to how to get mysql working so i followed the guide below. https://www.youtube.com/watch?v=iaUXjTL_F9U&#xA;I did encounter some errors as apart of this. I did end up resolving this issue because the software couldnt make an connection with something the wasnt named as. I finally was able to have a play around, i havent touched this since university. I was able to create a database and table. I managed to call out the data, was not expecting this kind of result though.</description>
+    </item>
+    <item>
+      <title>Virtual Image created</title>
+      <link>http://localhost:1313/posts/my22-06/</link>
+      <pubDate>Sat, 22 Jun 2024 16:07:27 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my22-06/</guid>
+      <description>I was finally able to resolve the previous issue, the vboxuser setting was not added to my individual user.As shown below:&#xA;I was able to create a windows image through, the URL below was what i had to use to make that image: https://www.microsoft.com/en-gb/software-download/windows10ISO&#xA;i Can finally start preparing the packages that i can work with for SQL learning. I have been considering using an ubuntu environment because the installation maybe easier and after watching this - https://www.</description>
+    </item>
+    <item>
+      <title>VirtualBox - install</title>
+      <link>http://localhost:1313/posts/my20-06/</link>
+      <pubDate>Thu, 20 Jun 2024 20:53:26 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my20-06/</guid>
+      <description>I am preparing the operating system so that i can get some understanding how Oracle. I dont know which environment i will be trying it on windows 11 or windows 10. I might begin with windows 10 because there are more bug fixes and then transition onto windows 11.&#xA;Since im on linux im following to install Virtual box. https://en.opensuse.org/VirtualBox&#xA;I am using Opensuse and encountering an issue when trying to use this virtual box.</description>
+    </item>
+    <item>
+      <title>Image Solution</title>
+      <link>http://localhost:1313/posts/my16-06/</link>
+      <pubDate>Sun, 16 Jun 2024 20:49:21 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my16-06/</guid>
+      <description>I finally found solution is for images being displayed in the hugo website: https://parzival2.github.io/blog/posts/add-images-hugo/&#xA;From what i can understanding the hugo website using the static folder to display content. So by create a image directory and the post name the image will be shown. I have tried to go through any previous entries and updated them with images.</description>
+    </item>
     <item>
       <title>A Break Through</title>
       <link>http://localhost:1313/posts/my15-06/</link>
