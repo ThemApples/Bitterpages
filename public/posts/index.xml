@@ -6,8 +6,22 @@
     <description>Recent content in Posts on Jimmys Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2024 14:52:52 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 20:39:51 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>configuring the database</title>
+      <link>http://localhost:1313/posts/my06-07/</link>
+      <pubDate>Sat, 06 Jul 2024 20:39:51 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my06-07/</guid>
+      <description>I have been created the database and inserted the data into the table. However the trouble that i have encountered is the foreign key. Several conditions have to met before the foreign key can be created.&#xA;The foreign key must not be null: (This means the value cannot be null) The table that contains the foreign key must have data for the primary key to be set. The foreign key needs to link to a primary key in a different table.</description>
+    </item>
+    <item>
+      <title>Drawing the database design</title>
+      <link>http://localhost:1313/posts/my03-07/</link>
+      <pubDate>Wed, 03 Jul 2024 20:36:06 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my03-07/</guid>
+      <description>I have created a idea of how the database is going to look for learning purposes. However, to get a better practice im trying to draw up a database design and then. Link them through primary keys according to my design and adjust it if i find any errors with the code. I have attempted to draw a design through a website: https://dbdiagram.io&#xA;However, it has caused my laptop to crash.</description>
+    </item>
     <item>
       <title>Taking the first steps</title>
       <link>http://localhost:1313/posts/my30-06/</link>
