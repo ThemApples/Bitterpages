@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my06-07/</loc>
-    <lastmod>2024-07-06T20:39:51+12:00</lastmod>
+    <loc>http://localhost:1313/posts/my04-08/</loc>
+    <lastmod>2024-08-04T17:23:29+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-06T20:39:51+12:00</lastmod>
+    <lastmod>2024-08-04T17:23:29+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-08-04T17:23:29+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my25-07/</loc>
+    <lastmod>2024-07-25T17:59:47+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my15-07/</loc>
+    <lastmod>2024-07-15T20:52:04+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my06-07/</loc>
     <lastmod>2024-07-06T20:39:51+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my03-07/</loc>

@@ -6,8 +6,29 @@
     <description>Recent content on Jimmys Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2024 20:39:51 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 17:23:29 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finished my first module</title>
+      <link>http://localhost:1313/posts/my04-08/</link>
+      <pubDate>Sun, 04 Aug 2024 17:23:29 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my04-08/</guid>
+      <description>I have completed my first module on the hack in the box website. URL: https://www.hackthebox.com/&#xA;I have started to learn a different way of understanding how to study. Especially in topics like security.&#xA;The module im currently working on is linux. I am currently using linux on a daily basis, so it would be good to get a better understanding.&#xA;I have lost my progress for my sql server since ive been playing around with the opensuse operating system and trying to configure a windows manager.</description>
+    </item>
+    <item>
+      <title>Continuing to Learn</title>
+      <link>http://localhost:1313/posts/my25-07/</link>
+      <pubDate>Thu, 25 Jul 2024 17:59:47 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my25-07/</guid>
+      <description>I have been advised to learn more about digital security. So someone recommended hack the box - https://www.hackthebox.com.&#xA;This gives any users a better an understanding of what happens being the person targeted and the person hacking.&#xA;The understanding from a linux point of view is nice also since linux is becoming more and more of the norm in my daily life.</description>
+    </item>
+    <item>
+      <title>learning something new</title>
+      <link>http://localhost:1313/posts/my15-07/</link>
+      <pubDate>Mon, 15 Jul 2024 20:52:04 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my15-07/</guid>
+      <description>At work there has been alot encouragement towards learning more about cyber security. There has been alot of issues with phising and scam emails.&#xA;I started learning about steganography and how its used to hack users.&#xA;To get a general understanding of how it works i followed networkChucks video on how to hide a text file inside an image.&#xA;URL below: https://www.youtube.com/watch?v=fQek73drZS4</description>
+    </item>
     <item>
       <title>configuring the database</title>
       <link>http://localhost:1313/posts/my06-07/</link>
