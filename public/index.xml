@@ -6,8 +6,15 @@
     <description>Recent content on Jimmys Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Aug 2024 17:23:29 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 17:18:01 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Attempting on changing hugo</title>
+      <link>http://localhost:1313/posts/my25-08/</link>
+      <pubDate>Sun, 25 Aug 2024 17:18:01 +1200</pubDate>
+      <guid>http://localhost:1313/posts/my25-08/</guid>
+      <description>For the path few weeks ive continue to learn through hack in the box. Understanding the basics for linux and then i can move foward to learning about a debug developer.&#xA;Ive attempted multiple other themes and have not easily implemented the theme but not all the previous features have passed over such as the ability to view images.</description>
+    </item>
     <item>
       <title>Finished my first module</title>
       <link>http://localhost:1313/posts/my04-08/</link>
