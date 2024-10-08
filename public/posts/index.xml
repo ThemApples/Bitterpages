@@ -6,8 +6,22 @@
     <description>Recent content in Posts on Jimmys Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2024 17:18:01 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 19:28:25 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixing up the machine</title>
+      <link>http://localhost:1313/posts/my08-10/</link>
+      <pubDate>Tue, 08 Oct 2024 19:28:25 +1300</pubDate>
+      <guid>http://localhost:1313/posts/my08-10/</guid>
+      <description>I have been experiencing an issue, after a software update. An example of this software is that videos are playing however, there are pink lights flickering.&#xA;ive tried updating my system, tried using different applications, modifying the backend of the system. This issue is persistant.&#xA;The result is that i had to erase my operating system and reinstalled it. Nothing has gone wrong so far.</description>
+    </item>
+    <item>
+      <title>The Latest Update</title>
+      <link>http://localhost:1313/posts/my01-09/</link>
+      <pubDate>Sun, 01 Sep 2024 19:28:11 +1300</pubDate>
+      <guid>http://localhost:1313/posts/my01-09/</guid>
+      <description>Work has been taking a tole on me. I have still been continuing to do a lesson every week for the hack in the box.&#xA;However, ive been learning outside of that and trying to get an understanding what jobs are coming out. What is expected of me to move from one career to the next.&#xA;What steps do i need to take to get to something like a Business Analyst.</description>
+    </item>
     <item>
       <title>My Attempting on changing hugo</title>
       <link>http://localhost:1313/posts/my25-08/</link>
