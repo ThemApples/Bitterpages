@@ -1,0 +1,54 @@
+/* General styling for body and page layout */
+body {
+    background-color: #000;
+    color: #00ff00; /* Green text like a classic terminal */
+    font-family: 'Courier New', monospace;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Terminal container */
+.terminal {
+    width: 80%;
+    height: 80%;
+    border: 2px solid #00ff00;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+/* Prompt styling */
+.prompt {
+    display: flex;
+    align-items: center;
+}
+
+.user {
+    color: #00ff00;
+}
+
+.terminal-input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #00ff00;
+    font-size: 16px;
+    width: 100%;
+    margin-left: 10px;
+    font-family: 'Courier New', monospace;
+}
+
+/* Styling for output text */
+#output {
+    margin-top: 20px;
+    color: #00ff00;
+}
+
+/* Cursor blink effect */
+.terminal-input:focus {
+    outline: none;
+}
